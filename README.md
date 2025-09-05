@@ -6,7 +6,7 @@ Hi, I'm Jackanory! I'm passionate about [your interests]. Here's what I do:
 - 🚀 Exploring [goals or achievements].
 
 ### My Projects
-- [Cool Project 1](link)
+- [Cool Project 1](/jackanory101/misc)
 - [Cool Project 2](link)
 
 ### Get in Touch
